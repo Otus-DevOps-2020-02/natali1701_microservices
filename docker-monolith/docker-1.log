@@ -1,0 +1,5 @@
+[root@git natali1701_microservices]# docker images
+REPOSITORY                     TAG                 IMAGE ID            CREATED             SIZE
+nataly_image/ubuntu-tmp-file   latest              437bc425bd56        8 seconds ago       125MB
+ubuntu                         16.04               005d2078bdfa        7 weeks ago         125MB
+hello-world                    latest              bf756fb1ae65        5 months ago        13.3kB
