@@ -29,7 +29,7 @@
 - научиться оптимизировать работу с Docker-образами
 
 - запуск и работа приложения на основе Docker-образов
-
+`
 - оценить удобства запуска контейнеров при помощи docker run
 
 - разбить наше приложение на несколько компонентов
@@ -75,3 +75,27 @@ https://hub.docker.com/repository/docker/natali1701/ui
 - мониторинг состояния микросервисов
 
 - сбор метрик хоста с использованием экспортера
+
+## HW17 - Мониторинг приложения и инфраструктуры
+
+Использование директорий docker, monitoring внутри проекта microservices.
+
+- Мониторинг Docker контейнеров
+
+- Визуализация метрик
+
+- Сбор метрик работы приложения и бизнес метрик
+
+- Настройка и проверка алертинга
+
+Ссылки на образы на докер хаб:
+
+https://hub.docker.com/repository/docker/natali1701/prometheus
+
+https://hub.docker.com/repository/docker/natali1701/post
+
+https://hub.docker.com/repository/docker/natali1701/comment
+
+https://hub.docker.com/repository/docker/natali1701/ui
+
+https://hub.docker.com/repository/docker/natali1701/alertmanager
