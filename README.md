@@ -99,3 +99,15 @@ https://hub.docker.com/repository/docker/natali1701/comment
 https://hub.docker.com/repository/docker/natali1701/ui
 
 https://hub.docker.com/repository/docker/natali1701/alertmanager
+
+## HW18 - Применение системы логирования в инфраструктуре на основе Docker
+
+Использование директорий docker, logging внутри проекта microservices.
+
+- Сбор неструктурированных логов
+
+- Визуализация логов
+
+- Сбор структурированных логов
+
+- Распределенная трасировка
