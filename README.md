@@ -55,3 +55,23 @@
 - описать для приложения этапы пайплайна
 
 - определить окружения
+
+## HW16 - Введение в мониторинг. Модели и принципы работы систем мониторинга
+
+Ссылки на образы на докер хаб:
+
+https://hub.docker.com/repository/docker/natali1701/prometheus
+
+https://hub.docker.com/repository/docker/natali1701/post
+
+https://hub.docker.com/repository/docker/natali1701/comment
+
+https://hub.docker.com/repository/docker/natali1701/ui
+
+Использование директории docker внутри проекта microservices.
+
+- Prometheus: запуск, конфигурация, знакомство с Web UI
+
+- мониторинг состояния микросервисов
+
+- сбор метрик хоста с использованием экспортера
