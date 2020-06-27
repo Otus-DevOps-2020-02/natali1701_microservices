@@ -124,3 +124,23 @@ https://hub.docker.com/repository/docker/natali1701/alertmanager
 - удалить кластер после прохождения THW
 
 - все созданные в ходе прохождения THW файлы (кроме бинарных) поместить в папку kubernetes/the_hard_way репозитория (сертификаты и ключи тоже можно коммитить, но только после удаления кластера)
+
+## HW20 - Основные модели безопасности и контроллеры в Kubernetes
+
+Использование директорий kubernetes внутри проекта microservices.
+
+- Ingress Controller
+
+- Ingress
+
+- Secret
+
+- TLS
+
+- LoadBalancer Service
+
+- Network Policies
+
+- PersistentVolumes
+
+- PersistentVolumeClaims
