@@ -111,3 +111,16 @@ https://hub.docker.com/repository/docker/natali1701/alertmanager
 - Сбор структурированных логов
 
 - Распределенная трасировка
+
+
+## HW19 - Введение в Kubernetes
+
+Использование директорий kubernetes внутри проекта microservices.
+
+- пройти Kubernetes The Hard Way
+
+- проверить, что kubectl apply -f <filename> проходит по созданным до этого deployment-ам (ui, post, mongo, comment) и поды запускаются
+
+- удалить кластер после прохождения THW
+
+- все созданные в ходе прохождения THW файлы (кроме бинарных) поместить в папку kubernetes/the_hard_way репозитория (сертификаты и ключи тоже можно коммитить, но только после удаления кластера)
