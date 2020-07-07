@@ -144,3 +144,21 @@ https://hub.docker.com/repository/docker/natali1701/alertmanager
 - PersistentVolumes
 
 - PersistentVolumeClaims
+
+## HW21 - Основные модели безопасности и контроллеры в Kubernetes 
+
+Использование директории kubernetes внутри проекта microservices.
+
+- Развернуть локальное окружение для работы с Kubernetes 
+
+- Развернуть Kubernetes в GKE 
+
+- Запустить reddit в Kubernetes
+
+- Подготовить локальноеокружение, которое будет состоять из: 
+
+  1)kubectl  - фактически, главной утилиты для работы c Kubernetes API (все, что делает kubectl, можно сделать с помощью HTTP-запросов к API k8s)
+
+  2)Директории ~/.kube - содержит служебную инфу для kubectl (конфиги, кеши, схемыAPI)
+
+  3)minikube - утилиты для разворачивания локальной инсталляции Kubernetes
