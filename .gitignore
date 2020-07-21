@@ -1,3 +1,7 @@
 packer/variables.json
+
 *.retry
+
 .env
+
+kubernetes/Gitlab_ci

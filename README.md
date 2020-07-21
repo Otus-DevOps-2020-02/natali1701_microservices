@@ -162,3 +162,16 @@ https://hub.docker.com/repository/docker/natali1701/alertmanager
   2)Директории ~/.kube - содержит служебную инфу для kubectl (конфиги, кеши, схемыAPI)
 
   3)minikube - утилиты для разворачивания локальной инсталляции Kubernetes
+
+## HW22 -  Интеграция k8s в GitlabCI и такой разный Helm
+
+Использование директории kubernetes внутри проекта microservices.
+
+- Работа с Helm
+
+- Развертывание Gitlab в Kubernetes
+
+- Запуск CI/CD конвейера в Kubernetes
+
+- Helm - пакетный менеджер для Kubernetes. С его помощью мы будем cтандартизировать поставку приложения в Kubernetes.
+  Декларировать инфраструктуру. Деплоить новые версии приложения
